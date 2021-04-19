@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OktaSamlSso", "OktaSamlSso.csproj", "{DD5B9669-0DFD-417C-85FF-794236552549}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD5B9669-0DFD-417C-85FF-794236552549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD5B9669-0DFD-417C-85FF-794236552549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD5B9669-0DFD-417C-85FF-794236552549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD5B9669-0DFD-417C-85FF-794236552549}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECC451EB-5249-4A9B-AA73-68FB471AB737}
+	EndGlobalSection
+EndGlobal
